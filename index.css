@@ -1,0 +1,58 @@
+
+          
+        h1{
+
+          padding: 0cm 0cm 0cm 12cm;
+          color:rgb(170,0,0);
+          font-size: 50;
+          font-family: "Arial Black", Gadget, sans-serif
+          
+          
+          
+          
+          
+          
+        } 
+        
+        br{
+            
+            background-color:rgb(0,0,0);
+            
+            
+        }
+          
+        h2{
+          padding: 0cm 0cm 0cm 6cm;
+          color:rgb(100,0,0);
+          font-size: 30;
+          font-family: "Arial Black", Gadget, sans-serif
+          
+        } 
+        
+
+        
+        li{
+            
+            color:rgb(255,255,255);
+            font-family:Tahoma, Geneva, sans-serif;
+            border: 4px black;
+            border-style:double solid none none;
+            padding: .3cm .1cm;
+            margin: 21px;
+            font-size: 20;
+            background-color:rgb(100,0,0);
+            
+        }
+        
+        
+        ul {
+    padding: .5cm 1cm 1cm 2cm;
+   background-color:rgb(0,0,0);
+   border: 5px solid black;
+   border-style:double solid none none;
+   background-image:url("https://i.imgur.com/6cnmT51.png")
+        }
+        
+       body {
+           background-image:url("https://i.imgur.com/q0pyMUz.png")
+       }
